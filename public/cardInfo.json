@@ -1,0 +1,174 @@
+[
+    {
+      "_id": "61f343bfa0a1a12345678901",
+      "collegeName": "Ivybridge University",
+      "collegeImage": "https://i.ibb.co/xFQzWHL/Ivybridge-University.jpg",
+      "admissionDate": "2023-09-01",
+      "events": ["Freshers Party", "Science Fair", "Sports Meet"],
+      "researchHistory": [
+        {
+          "title": "Study on Climate Change",
+          "author": "John Doe",
+          "publicationDate": "2022-05-15"
+        },
+        {
+          "title": "Advancements in Artificial Intelligence",
+          "author": "Jane Smith",
+          "publicationDate": "2023-01-10"
+        }
+      ],
+      "sports": ["Football", "Basketball", "Swimming"],
+      "collegeRating": 4.5,
+      "numberOfResearchers": 20
+    },
+
+    {
+      "_id": "61f343bfa0a1b12345678902",
+      "collegeName": "Oceanview College of Science and Technology",
+      "collegeImage": "https://i.ibb.co/mCrRQRt/Ocean-View.jpg",
+      "admissionDate": "2023-08-28",
+      "events": ["Tech Fest", "Cultural Night", "Hackathon"],
+      "researchHistory": [
+        {
+          "title": "Robotics in Healthcare",
+          "author": "David Johnson",
+          "publicationDate": "2021-12-20"
+        },
+        {
+          "title": "Advances in Nanotechnology",
+          "author": "Emily Williams",
+          "publicationDate": "2022-08-05"
+        }
+      ],
+      "sports": ["Cricket", "Tennis", "Table Tennis"],
+      "collegeRating": 4.2,
+      "numberOfResearchers": 15
+    },
+
+
+    {
+      "_id": "61f343bfa0a1c12345678903",
+      "collegeName": "Oxford university",
+      "collegeImage": "https://i.ibb.co/ScVCBpx/oxford.jpg",
+      "admissionDate": "2023-07-15",
+      "events": ["Science Symposium", "Debate Competition", "Exhibition"],
+      "researchHistory": [
+        {
+          "title": "Genetic Engineering and Its Applications",
+          "author": "Michael Brown",
+          "publicationDate": "2023-03-10"
+        }
+      ],
+      "sports": ["Volleyball", "Badminton", "Athletics"],
+      "collegeRating": 4.8,
+      "numberOfResearchers": 25
+    },
+    {
+      "_id": "61f343bfa0a1d12345678904",
+      "collegeName": "hardvard university",
+      "collegeImage": "https://i.ibb.co/2tX9yYk/Harvard.jpg",
+      "admissionDate": "2023-09-05",
+      "events": ["Art Exhibition", "Poetry Slam", "Dance Festival"],
+      "researchHistory": [],
+      "sports": ["Yoga", "Dance", "Martial Arts"],
+      "collegeRating": 4.0,
+      "numberOfResearchers": 5
+    },
+
+    {
+      "_id": "61f343bfa0a1e12345678905",
+      "collegeName": "howard university",
+      "collegeImage": "https://i.ibb.co/31sb1vC/howard-university.jpg",
+      "admissionDate": "2023-07-30",
+      "events": ["Inter-University Sports Meet", "Athletics Championship"],
+      "researchHistory": [],
+      "sports": ["Football", "Basketball", "Swimming", "Tennis", "Cricket"],
+      "collegeRating": 4.6,
+      "numberOfResearchers": 10
+    },
+    {
+      "_id": "61f343bfa0a1f12345678906",
+      "collegeName": "boston university",
+      "collegeImage": "https://i.ibb.co/D45QQWs/boston-uni.jpg",
+      "admissionDate": "2023-08-15",
+      "events": ["Business Summit", "Entrepreneurship Conference"],
+      "researchHistory": [
+        {
+          "title": "Trends in E-Commerce",
+          "author": "Sarah Lee",
+          "publicationDate": "2021-11-25"
+        }
+      ],
+      "sports": ["Golf", "Chess"],
+      "collegeRating": 4.4,
+      "numberOfResearchers": 8
+    },
+    {
+      "_id": "61f343bfa0a2012345678907",
+      "collegeName": "cambridge university",
+      "collegeImage": "https://i.ibb.co/HK4FHdK/cambridge-university.jpg",
+      "admissionDate": "2023-09-10",
+      "events": ["Medical Symposium", "Health Camp"],
+      "researchHistory": [
+        {
+          "title": "Advancements in Cancer Research",
+          "author": "Dr. Richard Davis",
+          "publicationDate": "2022-07-12"
+        }
+      ],
+      "sports": ["Basketball", "Football", "Volleyball"],
+      "collegeRating": 4.9,
+      "numberOfResearchers": 30
+    },
+    {
+      "_id": "61f343bfa0a2112345678908",
+      "collegeName": "university of passau",
+      "collegeImage": "https://i.ibb.co/N1hNVBS/universitat-passau.jpg",
+      "admissionDate": "2023-08-25",
+      "events": ["Environmental Awareness Campaign", "Nature Walks"],
+      "researchHistory": [
+        {
+          "title": "Impact of Deforestation on Biodiversity",
+          "author": "Dr. Lisa Anderson",
+          "publicationDate": "2023-04-18"
+        }
+      ],
+      "sports": ["Hiking", "Cycling"],
+      "collegeRating": 4.7,
+      "numberOfResearchers": 12
+    },
+    {
+      "_id": "61f343bfa0a2212345678909",
+      "collegeName": "new york university",
+      "collegeImage": "https://i.ibb.co/TB5Xfm4/new-york-university.jpg",
+      "admissionDate": "2023-09-20",
+      "events": ["Music Concert", "Composition Workshop"],
+      "researchHistory": [
+        {
+          "title": "Evolution of Jazz Music",
+          "author": "John Smith",
+          "publicationDate": "2022-10-08"
+        }
+      ],
+      "sports": ["Music Ensemble"],
+      "collegeRating": 4.3,
+      "numberOfResearchers": 6
+    },
+    {
+      "_id": "61f343bfa0a2312345678910",
+      "collegeName": "Schiller International University",
+      "collegeImage": "https://i.ibb.co/Tbs6swM/Schiller-International-University.jpg",
+      "admissionDate": "2023-08-20",
+      "events": ["Language Fair", "Translation Workshop"],
+      "researchHistory": [
+        {
+          "title": "Revival of Endangered Languages",
+          "author": "Dr. Elizabeth White",
+          "publicationDate": "2023-02-22"
+        }
+      ],
+      "sports": [],
+      "collegeRating": 4.1,
+      "numberOfResearchers": 7
+    }
+  ]

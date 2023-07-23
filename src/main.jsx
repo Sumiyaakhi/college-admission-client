@@ -14,6 +14,8 @@ import Admission from './Pages/Admission/Admission';
 import Colleges from './Pages/Colleges/Colleges';
 import MyCollege from './Pages/My College/MyCollege';
 import AuthProviders from './providers/AuthProviders';
+import CardDetails from './Home/CardDetails/CardDetails';
+import PrivateRoute from './PrivateRoute/PrivateRoute';
 
 const router = createBrowserRouter([
   {
@@ -44,6 +46,10 @@ const router = createBrowserRouter([
       {
         path:'myCollege',
         element:<MyCollege></MyCollege>
+      },
+      {
+        path:'cardDetails',
+        element: <PrivateRoute><CardDetails></CardDetails></PrivateRoute>
       }
     ]
     

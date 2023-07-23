@@ -1,0 +1,56 @@
+[
+    {
+      "_id": "61f3437ca0a1a12345678901",
+      "collegeName": "Ivybridge University",
+      "review": "Excellent facilities and supportive faculty. Highly recommended!",
+      "feedback": "The campus environment is vibrant, and I had a great learning experience."
+    },
+    {
+      "_id": "61f3437ca0a1b12345678902",
+      "collegeName": "Oceanview College of Science and Technology",
+      "review": "Great engineering programs and state-of-the-art labs.",
+      "feedback": "The hands-on approach to learning helped me gain valuable practical skills."
+    },
+    {
+      "_id": "61f3437ca0a1c12345678903",
+      "collegeName": "The Science Academy",
+      "review": "A fantastic place to pursue scientific research.",
+      "feedback": "I had the opportunity to collaborate on groundbreaking research projects."
+    },
+    {
+      "_id": "61f3437ca0a1d12345678904",
+      "collegeName": "Artists' Institute",
+      "review": "Passionate faculty and inspiring artistic environment.",
+      "feedback": "I felt encouraged to explore my creativity and express myself through art."
+    },
+    {
+      "_id": "61f3437ca0a1e12345678905",
+      "collegeName": "Sports University",
+      "review": "Outstanding sports facilities and great coaching staff.",
+      "feedback": "The sports programs helped me enhance my skills and compete at a higher level."
+    },
+    {
+      "_id": "61f3437ca0a1f12345678906",
+      "collegeName": "Business School",
+      "review": "Excellent business curriculum and helpful career services.",
+      "feedback": "The networking opportunities and internships provided valuable career insights."
+    },
+    {
+      "_id": "61f3437ca0a2012345678907",
+      "collegeName": "Medical College",
+      "review": "Top-notch medical education and dedicated professors.",
+      "feedback": "The medical training prepared me well for my future as a healthcare professional."
+    },
+    {
+      "_id": "61f3437ca0a2112345678908",
+      "collegeName": "Environmental Studies Institute",
+      "review": "A great place to study environmental conservation and sustainability.",
+      "feedback": "The focus on sustainability inspired me to make a positive impact on the environment."
+    },
+    {
+      "_id": "61f3437ca0a2212345678909",
+      "collegeName": "Music Conservatory",
+      "review": "Talented musicians and supportive music community.",
+      "feedback": "The music faculty provided personalized guidance, helping me grow as a musician."
+    }
+  ]
