@@ -14,7 +14,7 @@ const GraduatesImage = () => {
     const [images, setImages] = useState([]);
 
     useEffect(()=>{
-        fetch('http://localhost:5000/graduatesImage')
+        fetch('https://college-admission-server-phi.vercel.app/graduatesImage')
         .then(res=> res.json())
         .then(data =>{
             console.log(data)

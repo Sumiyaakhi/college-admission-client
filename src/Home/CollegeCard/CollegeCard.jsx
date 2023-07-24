@@ -12,7 +12,7 @@ const CollegeCard = () => {
     }
 
     useEffect(()=>{
-        fetch('http://localhost:5000/collegeInfo')
+        fetch('https://college-admission-server-phi.vercel.app/collegeInfo')
         .then(res=>res.json())
         .then(data => {
             setLoading(true);

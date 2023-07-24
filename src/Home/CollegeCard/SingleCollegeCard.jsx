@@ -18,7 +18,7 @@ const SingleCollegeCard = ({singleCollegeInfo}) => {
         <p> <span className='font-bold underline '>Sports:</span> {sports.map((sport,index)=> <li key={index}>{sport}</li> )}</p>
 
     <div className="card-actions justify-end">
-      <Link to='/cardDetails'><button className="btn text-primary">Details</button></Link>
+      <Link to={`/cardDetails/${_id}`}><button className="btn text-primary">Details</button></Link>
     </div>
   </div>
 </div>

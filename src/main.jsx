@@ -49,7 +49,8 @@ const router = createBrowserRouter([
       },
       {
         path:'cardDetails',
-        element: <PrivateRoute><CardDetails></CardDetails></PrivateRoute>
+        element: <PrivateRoute><CardDetails></CardDetails></PrivateRoute>,
+        loader:({params}) => fetch(`https://college-admission-server-phi.vercel.app/collegeInfo/${params.id}`)
       }
     ]
     

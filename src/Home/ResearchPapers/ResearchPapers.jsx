@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const ResearchPapers = () => {
 const [papers, setPapers] = useState([]);
 useEffect(()=>{
-    fetch('http://localhost:5000/researchPapers')
+    fetch('https://college-admission-server-phi.vercel.app/researchPapers')
     .then(res=> res.json())
     .then(data =>{
         console.log(data);
